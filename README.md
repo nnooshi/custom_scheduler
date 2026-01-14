@@ -116,3 +116,4 @@ Pod memory requests: pod1 (600Mi), pod2 (800Mi), pod3 (600Mi).
 Final: Node1 has 1200Mi (pod1+pod3), Node2 has 800Mi (pod2).
 
 
+![Deployment Logs](deployment_logs.jpg)
